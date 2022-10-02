@@ -10,3 +10,15 @@ Questions which will appear in quiz along with their correct answers are defined
 contain an array of values.
 
 Defined sample data for the quiz is present in Quizdata.json file of this folder.
+
+Create the GUI using Tkinter in Quiz.py
+
+Below are steps that one need to follow:
+
+1.Import module tkinter and json
+2.Create the main window (container) of the app
+3.Add widgets to display data
+4.Add the functionalities to the button
+5.Use the data in the Quiz
+
+ Both the Quizdata.json and the Quiz.py will be created in the same directory which we have used.
