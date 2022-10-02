@@ -1,0 +1,12 @@
+
+In this project, we try to build a simple quiz game using python library TKinter
+which is a standard GUI(Graphical User Interface) framework to develop fast and easy GUI applications.
+
+We will be creating a multiple choice quiz in Python with Tkinter. 
+
+First, we will create a library named Quiz in the directory. 
+
+Questions which will appear in quiz along with their correct answers are defined in Quizdata.json with JSON data which are name/value pairs and 
+contain an array of values.
+
+Defined sample data for the quiz is present in Quizdata.json file of this folder.
