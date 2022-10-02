@@ -1,37 +1,79 @@
 {
   "question": [
-    "Q1. What Indian city is the capital of two states?",
-    "Q2. Which city is the capital of India?",
-    "Q3. Smallest State of India?",
-    "Q4. Where is Taj Mahal Located?"
+    "1) In which year The Payment and Settlement Systems (PSS) Act came into force?",
+    "2) Fiscal policy is associated with which of the following?",
+    "3) Which among the following was the first Government Company to be privatized in India?",
+    "4) In context with banking in India, March 16, 1949 is a date which marks:",
+    "5) Which is considered as ‘Invisible hand’ in the Market economy?",
+    "6) In which year, Planning Commission was set up?",
+    "7) How many focus sectors are there under Make in India initiative?",
+    "8) When did India become a permanent member of the Washington Accord?",
+    "9) By which year the government want to spend 3% of gdp on health?",
+    "10) What are Mutual Funds?",
   ],
   "answer": [
+    3,
+    4,
+    3,
+    3,
+    3,
     1,
     2,
     3,
-    2
+    2,
+    4
   ],
   "options": [
 
-    ["Chandigarh",
-      "Kolkata",
-      "Delhi",
-      "Bangalore"
+    ["2006",
+      "2008",
+      "2007",
+      "2005"
     ],
-    ["Jaipur",
-      "Delhi",
-      "Chennai",
-      "Mumbai"
+    ["Public revenue",
+      "Public expenditure and debt",
+      "Bank rate policy",
+      "Both A and B"
     ],
-    ["Rajasthan",
-      "Punjab",
-      "Goa",
-      "Bihar"
+    ["Hotel Corporation of India",
+      "Rashtriya Chemicals & Fertilizers Ltd",
+      "Maruti Udyog Limited",
+      "Modern Foods Industries Limited"
     ],
-    ["Lucknow",
-      "Agra",
-      "Bhopal",
-      "Delhi"
+    ["Establishment of RBI",
+      "Nationalisation of RBI",
+      "Banking Regulation act coming in Force",
+      "Nationalization of Banks"
+    ],
+     ["Trade",
+      "Money",
+      "Competition",
+      "Demand and supply"
+    ],
+     ["1950",
+      "1951",
+      "1949",
+      "1952"
+    ],
+     ["35",
+      "25",
+      "18",
+      "20"
+    ],
+     ["2015",
+      "2018",
+      "2014",
+      "2010"
+    ],
+     ["2020",
+      "2022",
+      "2024",
+      "2025"
+    ],
+     ["Money raised to invest in Infrastructure projects",
+      " Money raised use for infrastructure projects",
+      "Money raised as collective investment",
+      "Money pooled to invest in securities"
     ]
   ]
 }
