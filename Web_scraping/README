@@ -1,1 +1,3 @@
 
+In this project, we will scrap https://github.com/topics to find out topics, popular repositories for respective topics and some info like username, repository name,etc.
+We are going to do this with the help of python libraries like requests and BeautifulSoup.
